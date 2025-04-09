@@ -107,5 +107,5 @@ Edge cases like empty fields, image upload validation, or missing selections wer
 Developed by **Sanket Hanjari Rathod**
 
 - Portfolio: [https://sanketrathod.in](https://sanketrathod.in)
-- LinkedIn: [https://linkedin.com/in/sanket-rathod-07](https://linkedin.com/in/sanket-rathod-07)
+- LinkedIn: [https://www.linkedin.com/in/sanketrathod757](https://www.linkedin.com/in/sanketrathod757)
 - GitHub: [https://github.com/sanketrathod07](https://github.com/sanketrathod07)
